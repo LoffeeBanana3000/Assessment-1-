@@ -1,0 +1,38 @@
+
+
+
+nav{
+    font-size: 35px;
+    text-align:center;
+}
+
+body {
+    background-color:#F8F3D9
+}
+
+.Brown{
+    background-color:#EBE5C2;
+    width:fit-content;
+    color:#504B38;
+    font-size:40px;
+    
+}
+
+.h2{
+    background-color:#504B38 ;
+    width:fit-content;
+    color:white
+
+}
+
+
+button{
+    font-size:100px; 
+    background-color: rgb(16, 240, 57); 
+    color:rgb(255, 255, 255); 
+    border-radius: 50px;
+
+    position: relative;
+    left: 400px;
+
+}
